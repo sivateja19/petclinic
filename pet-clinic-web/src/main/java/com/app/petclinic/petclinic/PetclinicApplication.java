@@ -1,4 +1,4 @@
-package com.app.petclinic;
+package com.app.petclinic.petclinic;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
